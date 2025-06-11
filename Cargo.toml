@@ -1,0 +1,11 @@
+[package]
+name = "command_listener"
+version = "0.1.0"
+edition = "2024"
+description = "A command listener for handling commands in a Rust application"
+repository = "https://github.com/manhumor/command-listener"
+license = "MIT OR Apache-2.0"
+readme = "readme.md"
+authors = ["man_humor"]
+
+[dependencies]
